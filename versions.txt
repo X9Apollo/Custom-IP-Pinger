@@ -1,7 +1,0 @@
---------------
-Gent Digital Ownership
-CSTMIPBAT
-VERSION: v1.02
-CREATED: 2020
-LAST UPDATED: 08/11/22 18:29 GMT
-----------------
